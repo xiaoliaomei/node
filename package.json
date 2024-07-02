@@ -1,0 +1,22 @@
+{
+  "name": "nodestudy",
+  "version": "1.0.0",
+  "description": "学习小满的nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoliaomei/node.git"
+  },
+  "keywords": [
+    "study小满nodejs"
+  ],
+  "author": "wlw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoliaomei/node/issues"
+  },
+  "homepage": "https://github.com/xiaoliaomei/node#readme"
+}
